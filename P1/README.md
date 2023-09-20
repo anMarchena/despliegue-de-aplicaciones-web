@@ -43,5 +43,4 @@ Aqui podemos ver como la ip de 10.0.2.15 es la de mi ordenador, que es el que es
 
 ![image](https://github.com/anMarchena/despliegue-de-aplicaciones-web/assets/107402815/3789631f-6063-47bf-9d4d-ca1ff3686ff0)
 
-
 Tambien podemos ver como la otra es la ip de google. Si buscamos esta ip en el buscador nos hare la pagina de google directamente.
