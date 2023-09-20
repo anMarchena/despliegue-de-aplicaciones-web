@@ -36,3 +36,9 @@ Esto significa que la request se ha encontrado y despues muestra la ruta de esta
 ### 4.Utilizando el filtro de captura para la interfaz de red de Wireshark, analiza la petición
 ### al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y
 ### la del servidor. Comprueba que, poniendo esa IP en el navegador, accedas a Google.
+
+![image](https://github.com/anMarchena/despliegue-de-aplicaciones-web/assets/107402815/e6ed7bd8-acb1-48ff-9250-256e83bfc711)
+
+Aqui podemos ver como la ip de 10.0.2.15 es la de mi ordenador, que es el que esta haciendo la request para habrir google.
+
+Tambien podemos ver como la otra es la ip de google. Si buscamos esta ip en el buscador nos hare la pagina de google directamente.
